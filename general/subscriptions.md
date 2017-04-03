@@ -4,7 +4,7 @@ Termius is available under two different licensing models. Our free version is a
 
 Termius Premium ships with extended functionality such as SFTP and Cross-Platform synchronization. [Click here](#features) for the full list of features.
 
-> #####*!* SMB and Enterprise clients
+> ***!*** SMB and Enterprise clients
 > Curious after a tailored licensing model to meet the specific needs of your business? Please [contact](mailto:sales@Termius.com) our sales team.
 
 ## How to get a Premium subscription?
@@ -25,7 +25,7 @@ To manage your Termius Premium Subscription, login to Google Play. Tap the menu 
 
 ## FAQ Why a subscription and not a one-off purchase?
 
-> *“I understand you're trying to milk every penny from your users, but please for the love of god ... make it a one-time purchase”* — anonymous 
+> *“I understand you're trying to milk every penny from your users, but please for the love of god ... make it a one-time purchase”* — anonymous
 
 Once in awhile the user asks us whether it would be possible [to make a one-off deal instead of getting a subscription](http://support.termius.com/forums/243649-ios-platform/suggestions/17341414-one-time-purchase). Although we like money as much as the next guy, at Termius we believe that great software is honest and sustainable. This means that we are creating a __service that helps you getting the job done__, *not only today but also tomorrow*!
 
