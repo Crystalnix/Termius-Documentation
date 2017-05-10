@@ -33,22 +33,32 @@
       - [The terminal keeps timing out](general/faq/terminal/terminal_timeout.md)
   - [Subscriptions](general/subscriptions.md)
 - [Android](android/README.md)
-  - Getting started
-  - Features and functionality
-  - Known issues and troubleshooting
+  - [Getting started](android/quickstart/README.md)
+  - [Features and functionality](android/features/README.md)
+  - [Known issues and troubleshooting](android/troubleshooting/README.md)
+  - [Changelog](android/changelog.md)
 - [iOS](ios/README.md)
-  - Getting started
-  - Features and functionality
-  - Known issues and troubleshooting
+  - [Getting started](ios/quickstart/README.md)
+  - [Features and functionality](ios/features/README.md)
+  - [Known issues and troubleshooting](ios/troubleshooting/README.md)
+  - [Changelog](android/changelog.md)
 - [Windows](windows/README.md)
-  - Getting started
-  - Features and functionality
-  - Known issues and troubleshooting
+  - [Getting started](windows/quickstart/README.md)
+  - [Features and functionality](windows/features/README.md)
+  - [Known issues and troubleshooting](windows/troubleshooting/README.md)
+  - [Changelog](android/changelog.md)
 - [MacOS](macos/README.md)
-  - Getting started
-  - Features and functionality
-  - Known issues and troubleshooting
+  - [Getting started](macos/quickstart/README.md)
+  - [Features and functionality](macos/features/README.md)
+  - [Known issues and troubleshooting](macos/troubleshooting/README.md)
+  - [Changelog](macos/changelog.md)
 - [Linux](linux/README.md)
-  - Getting started
-  - Features and functionality
-  - Known issues and troubleshooting
+  - [Getting started](linux/quickstart/README.md)
+  - [Features and functionality](linux/features/README.md)
+  - [Known issues and troubleshooting](linux/troubleshooting/README.md)
+  - [Changelog](linux/changelog.md)
+- [CLI](cli/README.md)
+  - [Getting started](cli/quickstart/README.md)
+  - [Features and functionality](cli/features/README.md)
+  - [Known issues and troubleshooting](cli/troubleshooting/README.md)
+  - [Changelog](cli/changelog.md)
