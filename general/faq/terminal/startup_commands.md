@@ -12,6 +12,8 @@ fi;
 exit;
 `````
 
-These commands detect the version of the OS you’re connecting to. They are executed automatically to render the appropriate icons, such as the Ubuntu, CentOS or FreeBSD logo, in the server listing. 
+These commands detect the version of the OS you’re connecting to. They are executed automatically to render the appropriate icons, such as the Ubuntu, CentOS or FreeBSD logo, in the server listing.
 
 This functionality can be disabled by toggling `Detect OS` `off` under settings.
+
+[[Go Back](README.md)]

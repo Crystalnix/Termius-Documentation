@@ -10,8 +10,10 @@ Currently, we support SSH, Telnet and SFTP and a whole bunch of encryption algor
 ### How to get Termius?
 #### iOS, Android, Amazon and Chrome platforms
 
-Termius is available for mobile devices such as iPads, iPhones, Tablet PCs, Smart Phones, and Amazon Fire and can be downloaded through the popular app stores. Termius as chrome extension can be found in the Chrome app store. 
+Termius is available for mobile devices such as iPads, iPhones, Tablet PCs, Smart Phones, and Amazon Fire and can be downloaded through the popular app stores. Termius as chrome extension can be found in the Chrome app store.
 
 [![iTunes](.images/apple.png)](https://itunes.apple.com/us/app/server-auditor/id549039908)[![Google Play](.images/google.png)](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client)[![Amazon](.images/amazon.png)](https://www.amazon.com/serverauditor-SSH-client-shell-terminal/dp/B008PAGIGM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1469793430&sr=8-1&keywords=Termius)[![Chome](.images/chrome.png)](https://chrome.google.com/webstore/detail/serverauditor-ssh-client/fjcdjmmkgnkgihjnlbgcdamkadlkbmam)
 
 > ***!*** Termius is fully functional, add-free and a free to download. [Termius Premium](subscriptions.md) is delivered with extended functionality such as SFTP and Cross-Platform sync. It is available under a subscription-based licensing model for $9.99 (US) a year. A subscription can be purchased in-app.
+
+[[Go Back](README.md)]

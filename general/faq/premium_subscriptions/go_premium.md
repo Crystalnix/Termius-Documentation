@@ -8,3 +8,5 @@ Users may obtain a Premium subscription in-app by clicking the `Go Premium` butt
 
 ### iOS
 ![Go Premium](../../.images/screenshots/go-premium-ios.png)
+
+[[Go Back](README.md)]

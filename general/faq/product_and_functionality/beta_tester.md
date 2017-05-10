@@ -11,3 +11,5 @@ At Termius we're running a beta-tester program. It's free to participate.
 To become a beta tester **iOS** users fill out the form following [this](https://termius.com/beta/signup/) link.
 
 Together we can make Termius even better!!
+
+[[Go Back](README.md)]

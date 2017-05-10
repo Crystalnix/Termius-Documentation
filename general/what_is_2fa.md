@@ -24,6 +24,6 @@ Authy is available on the following platforms
 [![iOS](.images/ios-circle.png)](https://itunes.apple.com/us/app/authy/id494168017?mt=8)
 [![Android](.images/android-circle.png)](https://play.google.com/store/apps/details?id=com.authy.authy&hl=en)
 
-
-
 Read more about Authy [here](https://www.authy.com/learn-more/)
+
+[[Go Back](README.md)]

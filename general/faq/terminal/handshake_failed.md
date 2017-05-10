@@ -1,4 +1,4 @@
-##I’m getting a “handshake failed” error message, please help? 
+##I’m getting a “handshake failed” error message, please help?
 When a TCP connection is made by a client, the server responds with the protocol versions it supports, this process is called, the handshake. In case the server and client find a matching protocol, the handshake is successful, and the server and client will continue to negotiate the secure connection.
 
 Otherwise, a failed handshake indicates that the server and client weren’t able to match protocols, and so a secure connection could not be established. The protocol version Termius supports are listed below.
@@ -36,3 +36,5 @@ If you get a `handshake failed` error message, it means that the server you’re
 |  | Arcfour256 |  |
 |  | none |  |
 | ----- | ----- | ----- |
+
+[[Go Back](README.md)]

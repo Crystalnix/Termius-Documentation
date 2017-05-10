@@ -34,3 +34,5 @@ For a product like Termius, it is essential to always agree with the latest stan
 __The subscription based sales model is a knife that cuts on both edges__. As user you pay as you go, that means you rather pay for the usage of Termius. Meanwhile the continuous income makes sure that we will have the necessary funds for development, making sure you get to get all the cool, up-to-date features.
 
 *Honest, and sustainable*.
+
+[[Go Back](README.md)]

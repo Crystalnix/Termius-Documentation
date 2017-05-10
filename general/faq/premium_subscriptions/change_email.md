@@ -6,3 +6,5 @@ To update your email address please [contact](https://serverauditor.uservoice.co
 2. The email address you'd like to use in the future (new)
 
 > **!** It might take a couple of days to update
+
+[[Go Back](README.md)]
