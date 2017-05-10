@@ -1,12 +1,12 @@
-# Get started with Termius on Android
+# Get started with Termius
+###### [[Termius Documentation](../../README.md) > [Android](../README.md)]
 
 You have [downloaded](../what_is_termius.md#how-to-get-Termius) Termius, now what? This **quick_start guide** helps you to get going. The guide describes the following actions and shows practical examples:
 
 * [Setup a basic host](basic_host.md)
 * [Hosts and host groups](host_groups.md)
+* [Using Snippets](snippets.md)
 * [Set access with Port forwarding](port_forwarding.md)
+* [UI tips and tricks](ui.md)
 
-### Comming soon
-* [Use Snippets](snippets.md)
-* [Import the ~/.ssh/config file](configfile.md)
-* [Import DigitalOcean and AWS instances](do_aws.md)
+###### [[Go Back](../README.md)]

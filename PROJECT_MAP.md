@@ -2,9 +2,13 @@
 
 - [README](README.md)
 - [PROJECT MAP](PROJECT_MAP.md)
+
+
 - [General](general/README.md)
   - [What is Termius?](general/what_is_termius.md)
   - [Subscriptions](general/subscriptions.md)
+  - [Is my data secure with Termius?](security.md)
+  - [Secure login  with 2FA](what_is_2fa.md)
   - [FAQ](general/faq/README.md)
     - [Premium Subscriptions](general/faq/premium_subscriptions/README.md)
       - [How to activate a subscription?](general/faq/premium_subscriptions/activete_subsciptions.md)
@@ -32,33 +36,96 @@
       - [The terminal runs a few startup commands, why?](general/faq/terminal/startup_commands.md)
       - [Error message “Terminal encoding UTF-8 is different"](general/faq/terminal/terminal_encoding.md)
       - [The terminal keeps timing out](general/faq/terminal/terminal_timeout.md)
+
+
 - [Android](android/README.md)
-  - [Getting started](android/quickstart/README.md)
+  - [Quick Start](android/quick_start/README.md)
+    - [Setup a basic host](android/quick_start/basic_host.md)
+    - [Hosts and host groups](android/quick_start/host_groups.md)
+    - [Using Snippets](android/quick_start/snippets.md)
+    - [Set access with Port Forwarding](android/quick_start/port_forwardingt.md)
+    - [UI tips and tricks](android/quick_start/ui.md)
   - [Features and functionality](android/features/README.md)
+    - [SSH]() *!*
+    - [Telnet]() *!*
+    - [SFTP]() *!*
+    - [Port forwarding]() *!*
+    - [Snippets]() *!*
   - [Known issues and troubleshooting](android/troubleshooting/README.md)
+    - [How to access the Root Terminal?](android/troubleshooting/can_I_access_the_root_terminal.md)
+    - [The passphrase is not requested upon connection](android/troubleshooting/passphrase.md)
+    - [How to use a physical keyboard?](android/troubleshooting/physical_keyboard.md)
   - [Changelog](android/changelog.md)
+
+
 - [iOS](ios/README.md)
-  - [Getting started](ios/quickstart/README.md)
+  - [Quick Start](ios/quick_start/README.md)
+    - [Setup a basic host]() *!*
+    - [Hosts and host groups]() *!*
+    - [Using Snippets]() *!*
+    - [Set access with Port Forwarding]() *!*
+    - [UI tips and tricks]() *!*
   - [Features and functionality](ios/features/README.md)
+    - [SSH]() *!*
+    - [Telnet]() *!*
+    - [SFTP]() *!*
+    - [Port forwarding]() *!*
+    - [Snippets]() *!*
   - [Known issues and troubleshooting](ios/troubleshooting/README.md)
   - [Changelog](android/changelog.md)
+
+
+  - [MacOS](macos/README.md)
+    - [Quick Start](macos/quick_start/README.md)
+      - [Setup a basic host]() *!*
+      - [Hosts and host groups]() *!*
+      - [Using Snippets]() *!*
+      - [UI tips and tricks]() *!*
+    - [Features and functionality](macos/features/README.md)
+      - [SSH]() *!*
+      - [Telnet]() *!*
+      - [SFTP]() *!*
+      - [Snippets]() *!*
+    - [Known issues and troubleshooting](macos/troubleshooting/README.md)
+    - [Changelog](macos/changelog.md)
+
+
 - [Windows](windows/README.md)
-  - [Getting started](windows/quickstart/README.md)
+  - [Quick Start](windows/quick_start/README.md)
+    - [Setup a basic host]() *!*
+    - [Hosts and host groups]() *!*
+    - [Using Snippets]() *!*
+    - [UI tips and tricks]() *!*
   - [Features and functionality](windows/features/README.md)
+    - [SSH]() *!*
+    - [Telnet]() *!*
+    - [SFTP]() *!*
+    - [Snippets]() *!*
   - [Known issues and troubleshooting](windows/troubleshooting/README.md)
   - [Changelog](android/changelog.md)
-- [MacOS](macos/README.md)
-  - [Getting started](macos/quickstart/README.md)
-  - [Features and functionality](macos/features/README.md)
-  - [Known issues and troubleshooting](macos/troubleshooting/README.md)
-  - [Changelog](macos/changelog.md)
+
+
 - [Linux](linux/README.md)
-  - [Getting started](linux/quickstart/README.md)
+  - [Quick Start](linux/quick_start/README.md)
+    - [Setup a basic host]() *!*
+    - [Hosts and host groups]() *!*
+    - [Using Snippets]() *!*
+    - [UI tips and tricks]() *!*
   - [Features and functionality](linux/features/README.md)
+    - [SSH]() *!*
+    - [Telnet]() *!*
+    - [SFTP]() *!*
+    - [Snippets]() *!*
   - [Known issues and troubleshooting](linux/troubleshooting/README.md)
   - [Changelog](linux/changelog.md)
+
+
 - [CLI](cli/README.md)
-  - [Getting started](cli/quickstart/README.md)
+  - [Quick Start](cli/quick_start/README.md)
+    - [Setup a basic host]() *!*
+    - [Hosts and host groups]() *!*
+    - [Using Snippets]() *!*
+    - [UI tips and tricks]() *!*
   - [Features and functionality](cli/features/README.md)
   - [Known issues and troubleshooting](cli/troubleshooting/README.md)
   - [Changelog](cli/changelog.md)

@@ -1,9 +1,9 @@
-# General > FAQ
+# FAQ
 ###### [[Termius Documentation](../../README.md) > [General](../README.md)]
 
 The General section of the documentation describes all non-platform related aspects of Termius.
 
-[[Go Back](../README.md)]
+###### [[Go Back](../README.md)]
 
 ## Table of contents
 - [Premium Subscriptions](premium_subscriptions/README.md)
