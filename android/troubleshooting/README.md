@@ -1,4 +1,5 @@
 # Troubleshooting
+###### [[Termius Documentation](../../README.md) > [Android](../README.md)]
 
 [[Back](../README.md)]
 

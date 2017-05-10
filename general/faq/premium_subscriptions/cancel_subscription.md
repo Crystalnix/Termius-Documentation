@@ -9,4 +9,4 @@ To manage your Termius Premium Subscription, login to Google Play. Tap the menu 
 
 > **!** For assistance, please [contact support](https://serverauditor.uservoice.com/clients/widgets/classic_widget?mode=support&locale=en&forum_id=243650&contact_us=true&custom_template_id=25586&context=site2&embed_type=lightbox&contact_enabled=true&feedback_enabled=false&strings=e30%3D&smartvote=true&default_mode=support&referrer=https%3A%2F%2FTermius.uservoice.com%2Fknowledgebase#contact_us). This can be done online or directly in the app. To do so, open the menu, tap `Help & feedback` and tap `Contact Support`.
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

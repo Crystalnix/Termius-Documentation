@@ -4,4 +4,4 @@ You’re most probably on iOS. Unfortunately, Apple’s policy does not allow ap
 
 However, with Split View you may run Termius side-by-side with other applications instead.
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

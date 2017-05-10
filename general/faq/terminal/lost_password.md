@@ -4,4 +4,4 @@ Attention! To favor privacy and security, user data will be lost when you reset 
 
 Please follow [this link](https://termius.com/accounts/password/reset/) to reset your password.
 
-[[Go Back](README.md)] 
+###### [[Go Back](README.md)] 

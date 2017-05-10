@@ -26,4 +26,4 @@ Authy is available on the following platforms
 
 Read more about Authy [here](https://www.authy.com/learn-more/)
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

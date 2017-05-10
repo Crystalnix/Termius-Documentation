@@ -8,4 +8,4 @@ In case you wish that the passphrase will be prompted, **just remove the passphr
 
 For detailed instructions [Android users click here](../../../android/faq/troubleshooting/passphrase.md) and [iOS users click here](../../../ios/faq/troubleshooting/passphrase.md).
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

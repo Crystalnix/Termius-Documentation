@@ -7,4 +7,4 @@ To update your email address please [contact](https://serverauditor.uservoice.co
 
 > **!** It might take a couple of days to update
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

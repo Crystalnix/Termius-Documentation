@@ -1,3 +1,4 @@
-#Changelog
+# Changelog
+###### [[Termius Documentation](../README.md) > [Android](README.md)]
 
-[[../README.md](Go Back)]
+###### [[Go Back](README.md)]

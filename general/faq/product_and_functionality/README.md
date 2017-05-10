@@ -1,4 +1,4 @@
-# General FAQ Product and functionality
+# General > FAQ > Product and functionality
 The General section of the documentation describes all non-platform related aspects of Termius.
 
 [[Go Back](../README.md)]

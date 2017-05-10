@@ -1,4 +1,4 @@
-# General FAQ Terminal and Troubleshooting
+# General > FAQ > Terminal and Troubleshooting
 The General section of the documentation describes all non-platform related aspects of Termius.
 
 [[Go Back](../README.md)]

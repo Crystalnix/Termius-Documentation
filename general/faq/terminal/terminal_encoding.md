@@ -5,4 +5,4 @@ In case you use iOS or the Chrome extension, Termius only supports UTF-8 charact
 
 Android users are in luck though, the charset option under host settings allows you to alter the character encoding of the terminal.
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

@@ -1,8 +1,9 @@
 # Android
+###### [[Termius Documentation](../README.md)]
 
 In this section you'll find all documentation related to Termius on Android.
 
-[[../README.md](Go Back)]
+###### [[Go Back](../README.md)]
 
 ## Table of contents
 - [Quickstart](quickstart/README.md)

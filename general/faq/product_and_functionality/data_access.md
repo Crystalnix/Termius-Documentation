@@ -5,4 +5,4 @@ User data is stored locally in such way, that only the application can get acces
 
 In other words, make sure you keep your master password safe because without it no-one will be able to decipher the data.
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

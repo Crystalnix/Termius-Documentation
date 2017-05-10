@@ -9,4 +9,4 @@ What's more? Premium users get cross-platform synchronization. We make sure that
 > ### SMB and Enterprise clients
 > Curious after a tailored licensing model to meet the specific needs of your business? Please [contact](mailto:sales@termius.com) our sales team.
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

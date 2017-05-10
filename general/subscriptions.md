@@ -1,4 +1,6 @@
-# Termius Premium
+# Subscriptions
+
+## Termius Premium
 
 Termius is available under two different licensing models. Our free version is available for private use, it is add-free and free to download from different app stores. A subscription-based version, Termius Premium, is available for commercial use and costs $9.99 (US) annually.
 
@@ -7,10 +9,10 @@ Termius Premium ships with extended functionality such as SFTP and Cross-Platfor
 > ***!*** SMB and Enterprise clients
 > Curious after a tailored licensing model to meet the specific needs of your business? Please [contact](mailto:sales@Termius.com) our sales team.
 
-## How to get a Premium subscription?
+### How to get a Premium subscription?
 Termius Premium is available on all supported platforms and can be purchased in-app.
 
-## Payment, Subscription and Cancellation
+### Payment, Subscription and Cancellation
 Payment is done once a year automatically through the app store of choice.
 
 __iOS users__ may manage their subscriptions with iTunes, directly through their device or [online](http://www.apple.com/itunes).
@@ -23,7 +25,7 @@ To manage your Termius Premium Subscription, login to Google Play. Tap the menu 
 
 > ***!*** For assistance, please [contact support](https://serverauditor.uservoice.com/clients/widgets/classic_widget?mode=support&locale=en&forum_id=243650&contact_us=true&custom_template_id=25586&context=site2&embed_type=lightbox&contact_enabled=true&feedback_enabled=false&strings=e30%3D&smartvote=true&default_mode=support&referrer=https:%2F%2FTermius.uservoice.com%2Fknowledgebase#contact_us). This can be done online or directly in the app. To do so, open the menu, tap `Help & feedback` and tap `Contact Support`.
 
-## FAQ Why a subscription and not a one-off purchase?
+### FAQ Why a subscription and not a one-off purchase?
 
 > *“I understand you're trying to milk every penny from your users, but please for the love of god ... make it a one-time purchase”* — anonymous
 
@@ -35,4 +37,4 @@ __The subscription based sales model is a knife that cuts on both edges__. As us
 
 *Honest, and sustainable*.
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

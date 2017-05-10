@@ -16,4 +16,4 @@ These commands detect the version of the OS you’re connecting to. They are exe
 
 This functionality can be disabled by toggling `Detect OS` `off` under settings.
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

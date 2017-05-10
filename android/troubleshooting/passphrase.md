@@ -1,4 +1,6 @@
-## I've generated a key with a passphrase, but the passphrase is not requested on connecting
+# I've generated a key with a passphrase, but the passphrase is not requested on connecting
+###### [[Termius Documentation](../../README.md) > [Android](../README.md) > [Troubleshooting](README.md)]
+
 *Termius supports RSA, DSA, and ECDSA keys for passwordless login. And you may protect your private key using a passphrase. This means that the private key will be encrypted using a passphrase to add an extra layer of security.*
 
 Passphrase-protected keys can be [generated](../../features/keychain.md#generate-a-key) by the key generator which you can find under `Keychain > Add > New key > Generate`. When you generate a passphrase-protected key set -- the public key, encrypted private key, **and passphrase** -- **will be stored in the Key chain**. Because of this, the passphrase will not be requested on the establishment of a connection.
@@ -18,4 +20,4 @@ Now the passphrase will be prompted before a connection may be established.
 
 > ***!*** Note that you also may [import](../../features/keychain.md#import-keys) passphrase-protected keys. You only need to fill out the passphrase field if you wish to store the passphrase in Keychain
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

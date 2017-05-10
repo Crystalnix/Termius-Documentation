@@ -5,4 +5,4 @@ Now in case you have a premium account, user data will be synchronized with all 
 
 Our Chrome extension saves user data directly to our back-end. All data is encrypted using AES-256 in combination with your personal master password. Different to the devices, our Chrome extension allows you to save the master password, in case you wish to.
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

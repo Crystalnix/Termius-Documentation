@@ -1,4 +1,5 @@
-#Features and functionality
+# Features and functionality
+###### [[Termius Documentation](../../README.md) > [Android](../README.md)]
 
 - SSH/Telnet/Mosh
 - SFTP
@@ -37,4 +38,4 @@
 - Ability to send Ctrl-H instead of delete.
 - Ability to set Username and Password for Telnet hosts with automatically connection.
 
-[[../README.md](Go Back)]
+###### [[Go Back](../README.md)]

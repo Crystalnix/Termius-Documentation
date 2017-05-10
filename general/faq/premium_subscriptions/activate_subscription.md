@@ -9,4 +9,4 @@ After getting a Premium subscription you should register your Termius account:
 
 That's all! Now you'll be able to log in with your account on any supported platform.
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

@@ -1,4 +1,5 @@
-## Work with host groups
+# Work with host groups
+###### [[Termius Documentation](../../README.md) > [Android](../README.md) > [Quick start](README.md)]
 
 A clever way to manage multiple hosts is through host `Groups`. With these `Groups` you can collect similar hosts, and manage shared settings in a single action. In our example, we'll be setting up a Raspberry pi fleet in our local network.
 
@@ -51,4 +52,4 @@ A group can be edited and one or more selected groups can be removed with a long
 
 > ***!*** Note that when deleting a group, all subordinate groups and hosts will be deleted as well!
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

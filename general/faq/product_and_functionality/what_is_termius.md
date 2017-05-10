@@ -16,4 +16,4 @@ Termius is available for mobile devices such as iPads, iPhones, Tablet PCs, Smar
 
 > **!** Termius is fully functional, add-free and a free to download. Termius Premium is delivered with extended functionality such as SFTP and Cross-Platform sync. It is available under a subscription-based licensing model for $9.99 (US) a year. A subscription can be purchased in-app.
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

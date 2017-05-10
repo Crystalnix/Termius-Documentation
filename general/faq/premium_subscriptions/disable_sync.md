@@ -4,4 +4,4 @@ Synchronization is not disableable, but you can disable the synchronization of S
 
 > **!** We use AWS as storage and all data is stored according to the zero-knowledge principle. All information is encrypted on the client side before synchronization. The encryption key and hash are never stored remotely, so only you will be able to access your data.
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

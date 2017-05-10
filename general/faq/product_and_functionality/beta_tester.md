@@ -12,4 +12,4 @@ To become a beta tester **iOS** users fill out the form following [this](https:/
 
 Together we can make Termius even better!!
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

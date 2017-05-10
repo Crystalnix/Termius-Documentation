@@ -1,4 +1,6 @@
-## Port forwarding
+# Port forwarding
+###### [[Termius Documentation](../../README.md) > [Android](../README.md) > [Quick start](README.md)]
+
 Sometimes you may want to connect to a host or service that is not directly available, for instance, a MySQL database that resides on a web server. In such scenario and dozen others, connecting may require Port forwarding. In our example, we'll set up a connection to a [simple web app](https://docs.djangoproject.com/en/dev/intro/tutorial01/) on Raspberry pi through your mobile device.
 
 > #####*!* What is Port forwarding?
@@ -62,4 +64,4 @@ Fill out 127.0.0.1 to allow the device that is carrying Termius access to the ho
 * [How to build a Django web app](https://docs.djangoproject.com/en/dev/intro/tutorial01/)
 * [A web server with Raspberry pi](http://raspberrypituts.com/django-raspberry-pi-tutorial/)
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]

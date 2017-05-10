@@ -1,8 +1,9 @@
-## Work with a basic host
+# Work with a basic host
+###### [[Termius Documentation](../../README.md) > [Android](../README.md) > [Quick start](README.md)]
 
 To start a session, the user needs to setup a host, this is done in the `Hosts` screen. In our example we'll be connecting to a Raspberry pi in our local network.
 
-###In this document
+### In this document
 * [Add a basic host](#add-a-basic-host)
 * [Using Identities](#using-identities)
 * [Connect to a host](#connect-to-a-host)
@@ -59,4 +60,4 @@ Navigate to the host you want to modify, tap and hold, until a blue circle with 
 
 After editing the details hit the tick `✓` in the top right corner, to save the changes.
 
-[[Go Back](README.md)]
+###### [[Go Back](README.md)]
