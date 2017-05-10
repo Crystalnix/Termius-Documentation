@@ -1,4 +1,6 @@
-## I’ve noticed that Termius issues a couple of shell commands before starting the session. Why?
+# I’ve noticed that Termius issues a couple of shell commands before starting the session. Why?
+###### [[Termius Documentation](../../../README.md) > [General](../../README.md) > [FAQ](../README.md) > [Terminal and Troubleshooting](README.md)]
+
 On opening a new connection Termius issues the following shell commands.
 
 `````

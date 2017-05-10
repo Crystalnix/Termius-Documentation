@@ -1,4 +1,6 @@
-## I want to turn off auto renewal, change or cancel my subscription
+# I want to turn off auto renewal, change or cancel my subscription
+###### [[Termius Documentation](../../../README.md) > [General](../../README.md) > [FAQ](../README.md) > [Premium Subscriptions](README.md)]
+
 __iOS users__ may manage their subscriptions with iTunes, directly through their device or [online](http://www.apple.com/itunes).
 
 To edit your Termius Premium Subscription, login to iTunes using the Apple ID you’ve used to subscribe. Navigate to the `subscription` section. Here you’ll find your Termius Premium Subscription. [Click here](https://support.apple.com/en-us/HT202039) for detailed instructions.

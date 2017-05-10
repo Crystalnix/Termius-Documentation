@@ -1,4 +1,6 @@
 # What is 2FA?
+###### [[Termius Documentation](../README.md) > [General](README.md)]
+
 At Termius we understand that the credentials and hosts you store are extremely valuable. Two-factor authentication (2FA) adds an extra layer of security to your Termius account. On top of the usual login sequence, there is a second factor, or barrier. You have to identify yourself using a token that is sent to a predefined device, like your cell phone.
 
 Normally you use your username and password to log-in. With 2FA you have to use your username, password, and a unique token. To generate this unique token, Termius uses [Authy](https://www.authy.com). Authy makes 2FA really easy and secure, it keeps all your tokens in one place and is compatible with a myriad of other applications that use Authy 2FA as well.

@@ -1,4 +1,5 @@
-## How many devices can I connect?
+# How many devices can I connect?
+###### [[Termius Documentation](../../../README.md) > [General](../../README.md) > [FAQ](../README.md) > [Premium Subscriptions](README.md)] 
 
 A user subscribes only once to get access through _all_ his devices, no matter the number of devices. The Premium subscriptions support an unlimited amount of devices per user.
 

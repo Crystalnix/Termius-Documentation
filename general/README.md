@@ -1,4 +1,6 @@
 # General
+###### [[Termius Documentation](../README.md)]
+
 The General section of the documentation describes all non-platform related aspects of Termius.
 
 [[Go Back](../README.md)]

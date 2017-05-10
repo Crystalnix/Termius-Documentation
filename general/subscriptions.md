@@ -1,4 +1,5 @@
 # Subscriptions
+###### [[Termius Documentation](../README.md) > [General](README.md)]
 
 ## Termius Premium
 

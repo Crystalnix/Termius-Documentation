@@ -1,4 +1,5 @@
-## Is it possible to disable synchronization?
+# Is it possible to disable synchronization?
+###### [[Termius Documentation](../../../README.md) > [General](../../README.md) > [FAQ](../README.md) > [Premium Subscriptions](README.md)]
 
 Synchronization is not disableable, but you can disable the synchronization of SSH password and key synchronization. To do so, **Android** users navigate to `Settings > Security`, and toggle `Sync keys and identities` off. **iOS** users navigate to `Settings > Synchronization` and uncheck `Keys & Passwords Sync`.
 

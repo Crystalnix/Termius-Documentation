@@ -1,4 +1,5 @@
-## I'd like to be the first to get my hands on new releases
+# I'd like to be the first to get my hands on new releases
+###### [[Termius Documentation](../../../README.md) > [General](../../README.md) > [FAQ](../README.md) > [Product and functionality](README.md)]
 
 At Termius we're running a beta-tester program. It's free to participate.
 

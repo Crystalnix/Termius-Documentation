@@ -1,4 +1,5 @@
-## Can't I just pay once instead of annually, to get Termius Premium?
+# Can't I just pay once instead of annually, to get Termius Premium?
+###### [[Termius Documentation](../../../README.md) > [General](../../README.md) > [FAQ](../README.md) > [Premium Subscriptions](README.md)]
 
 We have decided to distribute Termius Premium under a subscription-based licensing model for several reasons.
 

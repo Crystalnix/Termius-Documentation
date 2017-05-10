@@ -1,4 +1,5 @@
-## I've got a Premium subscription, but nothing has changed
+# I've got a Premium subscription, but nothing has changed
+###### [[Termius Documentation](../../../README.md) > [General](../../README.md) > [FAQ](../README.md) > [Premium Subscriptions](README.md)] 
 
 After getting a Premium subscription you should register your Termius account:
 

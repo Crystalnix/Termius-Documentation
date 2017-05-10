@@ -1,4 +1,6 @@
-## What is Termius?
+# What is Termius?
+###### [[Termius Documentation](../../../README.md) > [General](../../README.md) > [FAQ](../README.md) > [Product and functionality](README.md)] 
+
 Termius is an **advanced SSH client** and **classic terminal tool** in a modern fashion. It allows you to login into a remote computer such as a Unix server, a cluster node or a Raspberry Pi using the device you’re using every day — Android, iOS and desktop (as an extension to Chrome).
 
 Termius is cross-platform and synchronizes user data across every device you use automatically. Our goal is to deliver a consistent user experience across all supported platforms enhancing your productivity and comfort, no matter where you are or how you connect. Termius is secure and takes care of privacy, your data is encrypted using a master password and stored in our Zero-knowledge data store. So you can focus on getting the job done.

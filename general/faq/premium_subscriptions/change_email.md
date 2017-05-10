@@ -1,4 +1,5 @@
-## I've activated my subscription with an incorrect email address
+# I've activated my subscription with an incorrect email address
+###### [[Termius Documentation](../../../README.md) > [General](../../README.md) > [FAQ](../README.md) > [Premium Subscriptions](README.md)] 
 
 To update your email address please [contact](https://serverauditor.uservoice.com/clients/widgets/classic_widget?mode=support&locale=en&forum_id=243650&contact_us=true&custom_template_id=25586&context=site2&embed_type=lightbox&contact_enabled=true&feedback_enabled=false&strings=e30%3D&smartvote=true&default_mode=support&referrer=https%3A%2F%2FTermius.uservoice.com%2F%23uvLink-contactus#contact_us) support. Don't forget to mention:
 
