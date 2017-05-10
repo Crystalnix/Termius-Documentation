@@ -3,7 +3,7 @@
 
 The General section of the documentation describes all non-platform related aspects of Termius.
 
-[[Go Back](../README.md)]
+###### [[Go Back](../README.md)]
 
 ## Table of contents
 - [How to activate a subscription?](premium_subscriptions/activete_subsciptions.md)

@@ -3,7 +3,7 @@
 
 The General section of the documentation describes all non-platform related aspects of Termius.
 
-[[Go Back](../README.md)]
+###### [[Go Back](../README.md)]
 
 ## Table of contents
 - [Can I use Termius to see if I am being hacked?](product_and_functionality/being_hacked.md)
