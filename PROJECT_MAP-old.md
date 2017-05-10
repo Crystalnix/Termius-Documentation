@@ -1,7 +1,7 @@
 # Project Map
 
 - [README](README.md)
-- [PROJECT MAP](PROJECT_MAP.md)
+- [CONTENTS](CONTENTS.md)
 - [General](general/README.md)
   - [What is Termius?](general/what_is_termius.md)
   - [FAQ](general/faq/README.md)
