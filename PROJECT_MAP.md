@@ -39,7 +39,8 @@
 
 
 - [Android](android/README.md)
-  - [Quick Start](android/quick_start/README.md)
+  - [How to get Termius](android/install_termius.md) *!*
+  - [Get started](android/quick_start/README.md)
     - [Setup a basic host](android/quick_start/basic_host.md)
     - [Hosts and host groups](android/quick_start/host_groups.md)
     - [Using Snippets](android/quick_start/snippets.md)
@@ -59,7 +60,8 @@
 
 
 - [iOS](ios/README.md)
-  - [Quick Start](ios/quick_start/README.md)
+  - [How to get Termius](ios/install_termius.md) *!*
+  - [Get started](ios/quick_start/README.md)
     - [Setup a basic host]() *!*
     - [Hosts and host groups]() *!*
     - [Using Snippets]() *!*
@@ -76,6 +78,7 @@
 
 
   - [MacOS](macos/README.md)
+    - [How to get Termius](macos/install_termius.md) *!*
     - [Quick Start](macos/quick_start/README.md)
       - [Setup a basic host]() *!*
       - [Hosts and host groups]() *!*
@@ -106,6 +109,7 @@
 
 
 - [Linux](linux/README.md)
+  - [How to get Termius](linux/install_termius.md) *!*
   - [Quick Start](linux/quick_start/README.md)
     - [Setup a basic host]() *!*
     - [Hosts and host groups]() *!*
@@ -121,6 +125,7 @@
 
 
 - [CLI](cli/README.md)
+  - [How to get Termius CLI](cli/install_termius.md) *!*
   - [Quick Start](cli/quick_start/README.md)
     - [Setup a basic host]() *!*
     - [Hosts and host groups]() *!*
