@@ -1,3 +1,6 @@
+# Features and functionality
+###### [[Termius Documentation](../../README.md) > [iOS](../README.md) > [Features and functionality](README.md)]
+
 # Using the extended keyboard
 
 The extended keyboard is only visible in the active terminal. By tapping the screen once the keyboard panel hides or reappears. On the keyboard panel, you will find different buttons. The white buttons are function keys and _are editable_. The gray buttons are navigation keys and are _not editable_.

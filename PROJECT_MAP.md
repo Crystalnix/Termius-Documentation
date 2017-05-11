@@ -71,6 +71,7 @@
     - [SFTP]() *!*
     - [Port forwarding]() *!*
     - [Snippets]() *!*
+    - [Extended Keyboard](extended_keyboard.md)
   - [Known issues and troubleshooting](ios/troubleshooting/README.md)
   - [Changelog](android/changelog.md)
 
