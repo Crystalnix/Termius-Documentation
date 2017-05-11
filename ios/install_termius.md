@@ -1,7 +1,7 @@
 # How to get Termius
 ###### [[Termius Documentation](../README.md) > [iOS](README.md)]
 
-Termius is an advanced SSH client and classic terminal tool in a modern fashion. It allows you to login into a remote computer such as a Unix server, a cluster node or a Raspberry Pi using the device you’re using every day — Android, iOS and desktop). Termius for Android devices is available through **iTunes**.
+Termius is an advanced SSH client and classic terminal tool in a modern fashion. It allows you to login into a remote computer such as a Unix server, a cluster node or a Raspberry Pi using the device you’re using every day — Android, iOS and desktop). Termius for Android devices is available through **iTunes**. Read here how to **[get started](/quick_start/README.md)**.
 
 [![iTunes](.images/apple.png)](https://itunes.apple.com/us/app/server-auditor/id549039908)
 
