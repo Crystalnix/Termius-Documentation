@@ -39,7 +39,7 @@
 
 
 - [Android](android/README.md)
-  - [How to get Termius](android/install_termius.md) *!*
+  - [How to get Termius](android/install_termius.md)
   - [Get started](android/quick_start/README.md)
     - [Setup a basic host](android/quick_start/basic_host.md)
     - [Hosts and host groups](android/quick_start/host_groups.md)
@@ -60,7 +60,7 @@
 
 
 - [iOS](ios/README.md)
-  - [How to get Termius](ios/install_termius.md) *!*
+  - [How to get Termius](ios/install_termius.md)
   - [Get started](ios/quick_start/README.md)
     - [Setup a basic host]() *!*
     - [Hosts and host groups]() *!*
