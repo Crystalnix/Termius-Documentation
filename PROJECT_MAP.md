@@ -62,11 +62,9 @@
 - [iOS](ios/README.md)
   - [How to get Termius](ios/install_termius.md)
   - [Get started](ios/quick_start/README.md)
-    - [Setup a basic host]() *!*
+    - [Setup a basic host](ios/quick_start/basic_host.md)
     - [Hosts and host groups]() *!*
     - [Using Snippets]() *!*
-    - [Set access with Port Forwarding]() *!*
-    - [UI tips and tricks]() *!*
   - [Features and functionality](ios/features/README.md)
     - [SSH]() *!*
     - [Telnet]() *!*
