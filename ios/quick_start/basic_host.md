@@ -10,7 +10,7 @@ To start a session, the user needs to setup a host, this is done in the `Hosts` 
 
 ## Add a basic host
 
-Make sure you're in the `home` screen. The `Home` screen is the first screen that will appear when you'll open the app for the first time. Now, follow the instructions on the screen, `start by adding a new host`. Tap `New Host` and a new window will pop up.
+Make sure you're in the `Hosts` screen. The `Hosts` screen is the first screen that will appear when you'll open the app for the first time. Now, follow the instructions on the screen, `start by adding a new host`. Tap `New Host` and a new window will pop up.
 
 > ***!*** If you run Termius for the first time, a prompt asking you to allow notifications will pop up, click ‘Allow’ (recommended).
 
