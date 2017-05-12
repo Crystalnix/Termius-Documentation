@@ -22,7 +22,7 @@ Linux users install a `bootstrap.sh` script. You use your native terminal and th
 `$ curl -sSL https://raw.githubusercontent.com/Crystalnix/termius-cli/master/bootstrap.sh | bash`
 
 ## Pip
-If your platform does not support Homebrew or Curl, or if you prefer to use Python instead, we have made a Pip and Easy_install version available. Note that these versions *require Python to work* properly.
+If your platform does not support Homebrew or Curl, or if you prefer to use Python instead, we have made a Pip and Easy_install version available. Note that these versions **require Python to work** properly.
 
 > ***!*** Make sure you have [Python installed](https://www.python.org/downloads/) with `pip` and `Add Python to environment variables` checked!
 
@@ -30,7 +30,7 @@ Prefer to use Pip? To install the Termius CLI tool, use your native terminal too
 
 `pip install -U termius`
 
-> ***!*** Prefer to use Eas_install instead? try `easy_install -U termius`
+> ***!*** Prefer to use Eas_install instead? Try `easy_install -U termius`
 
 
 

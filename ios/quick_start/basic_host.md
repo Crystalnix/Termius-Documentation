@@ -6,6 +6,7 @@ To start a session, the user needs to setup a host, this is done in the `Hosts` 
 ### In this document
 * [Add a basic host](#add-a-basic-host)
 * [Connect to a host](#connect-to-a-host)
+* [Using Identities](#using-identities)
 * [Edit or delete a host](#edit-or-delete-a-host)
 
 ## Add a basic host
@@ -25,6 +26,10 @@ Enter an `alias`, this could be ‘Raspberry Pi’, for example. Then enter the 
 > ***!*** What is a host?
 > Termius is a cross-platform SSH Client. It helps you to connect to- and manage a system or service. If a system or service is prepared to accept SSH connections it is called a host. A host can be found through hostname e.g. ssh.Termius.com or IP address e.g. 192.168.0.21.
 
+## Usinng Identities
+An identity is a username in combination with a password or key which you may predefine and stored. One identity can then be shared among multiple hosts and host groups.
+
+> ***!*** Identities are managed using [Keychain](../features/keychain.md)
 
 ## Connect to a host
 

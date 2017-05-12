@@ -124,12 +124,9 @@
 
 
 - [CLI](cli/README.md)
+- [Changelog](changelog.md) *!*
   - [How to get Termius CLI](cli/install_termius.md) *!*
-  - [Quick Start](cli/quick_start/README.md)
-    - [Setup a basic host]() *!*
-    - [Hosts and host groups]() *!*
-    - [Using Snippets]() *!*
-    - [UI tips and tricks]() *!*
+  - [Cheat Sheet](cheat_sheet.md) *!*
   - [Features and functionality](cli/features/README.md)
   - [Known issues and troubleshooting](cli/troubleshooting/README.md)
   - [Changelog](cli/changelog.md)
