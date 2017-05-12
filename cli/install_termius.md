@@ -2,13 +2,13 @@
 ###### [[Termius Documentation](../README.md) > [CLI](README.md)]
 
 The CLI tool is available for Linux, MacOS and Windows and can be installed using the following distribution channels:
-- [Homebrew (MacOS)](#homebrew-(macos))
-- [Curl (Linux)](#curl-(linux))
-- [Pip (Python, Cross-Platform)](#pip-(python,-cross-platform))
+- [Homebrew (MacOS)](#homebrew)
+- [Curl (Linux)](#curl)
+- [Pip (Python, Cross-Platform)](#pip)
 
 After installation, check out our [Quick Start guide](quick_start/README.md) or [Cheat Sheet](cheat_sheet.md).
 
-## Homebrew (MacOS)
+## Homebrew
 For MacOS users, there is a [Homebrew](http://brew.sh/) formula available.
 You may install the Termius CLI tool using your native terminal and the following command:
 
@@ -16,12 +16,12 @@ You may install the Termius CLI tool using your native terminal and the followin
 
 > ***!*** The command above installs Bash and zsh completions by default
 
-## Curl (Linux)
+## Curl
 Linux users install a `bootstrap.sh` script. You use your native terminal and the following command:
 
 `$ curl -sSL https://raw.githubusercontent.com/Crystalnix/termius-cli/master/bootstrap.sh | bash`
 
-## Pip (Python, Cross-Platform)
+## Pip
 If your platform does not support Homebrew or Curl, or if you prefer to use Python instead, we have made a Pip and Easy_install version available. Note that these versions *require Python to work* properly.
 
 > ***!*** Make sure you have [Python installed](https://www.python.org/downloads/) with `pip` and `Add Python to environment variables` checked!
