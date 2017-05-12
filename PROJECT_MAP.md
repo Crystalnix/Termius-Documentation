@@ -63,7 +63,7 @@
   - [How to get Termius](ios/install_termius.md)
   - [Get started](ios/quick_start/README.md)
     - [Setup a basic host](ios/quick_start/basic_host.md)
-    - [Hosts and host groups]() *!*
+    - [Hosts and host groups](ios/quickstart/host_groups.md)
     - [Using Snippets]() *!*
   - [Features and functionality](ios/features/README.md)
     - [SSH]() *!*
