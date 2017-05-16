@@ -17,6 +17,6 @@ The CLI tool is available on Linux, MacOS and Windows.
 
 ## Table of contents
 - [How to get the Termius CLI tool](install_termius.md)
-- [Cheat Sheet](cheat_sheet.md) *!*
+- [Cheat Sheet](cheat_sheet.md)
 - [Features and Functionality](features/README.md) *!*
 - [Changelog](changelog.md) *!*

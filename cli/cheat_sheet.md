@@ -42,6 +42,8 @@ Work,81.138.33.19
 
 Download the importer.py script
 
+{"gitdown": "gist", "id": "be08dd9864438a43bf25d8442d6c8437"}
+
 <script src="https://gist.github.com/Dreamzilla/be08dd9864438a43bf25d8442d6c8437.js"></script>
 
 > ***!*** Make sure importer.py and the source file are in the same directory!!
