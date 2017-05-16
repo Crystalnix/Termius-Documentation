@@ -3,7 +3,7 @@
 
 Sometimes you may want to connect to a host or service that is not directly available, for instance, a MySQL database that resides on a web server. In such scenario and dozen others, connecting may require Port forwarding. In our example, we'll set up a connection to a [simple web app](https://docs.djangoproject.com/en/dev/intro/tutorial01/) on Raspberry pi through your mobile device.
 
-> #####*!* What is Port forwarding?
+> ##### *!* What is Port forwarding?
 > Port forwarding is used to redirect a communication request from one address and port number to another while packets are traversing a network gateway, such as a router or firewall. In layman terms, Port forwarding helps a packet to find its destination through a complex network.
 
 

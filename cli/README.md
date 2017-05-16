@@ -1,15 +1,17 @@
 # CLI Tool
-###### [Termius Documentation](/README.md)
+###### [[Termius Documentation](../README.md)]
 
 Termius is the number one Cross-Platform Terminal app. Our CLI Tool completes Termius GUI, it gives you more control over processes in Termius that are usually automated.
 
 The CLI tool is an advanced tool that allows the user:
 - to pull user-data from and push data to the Termius cloud,
-- to modify or delete user-data
+- to modify or delete user-data,
 - to import and export host data, keys and snippets,
 - to connect to SSH instances.
 
 The CLI tool is available on Linux, MacOS and Windows.
+
+> ###### *!* The CLI Tool is open source, and is available on [Github](https://github.com/Crystalnix/termius-cli). Feel free to fiddle around, and we are looking forward to your contributions! ;)
 
 ###### [[Go Back](../README.md)]
 
