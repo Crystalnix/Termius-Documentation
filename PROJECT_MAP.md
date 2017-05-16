@@ -125,7 +125,7 @@
 
 - [CLI](cli/README.md)
   - [How to get Termius CLI](cli/install_termius.md)
-  - [Cheat Sheet](cheat_sheet.md)
+  - [Cheat Sheet](cli/heat_sheet.md)
   - [Features and functionality](cli/features/README.md) *!*
   - [Known issues and troubleshooting](cli/troubleshooting/README.md) *!*
   - [Changelog](cli/changelog.md) *!*
