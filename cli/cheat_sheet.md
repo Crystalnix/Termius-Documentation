@@ -27,7 +27,7 @@ Termius pull
 
 ### Getting the source.txt file ready
 The source file is a plain text file. Each new line is considered a new entry. Values are separated by a comma (,). The source file follows the following pattern and blank fields are ignored:
-`{Name}.{Address},{Username},{Password}`
+`{Name},{Address},{Username},{Password}`
 
 Your file could look like the following:
 
@@ -40,11 +40,7 @@ Work,81.138.33.19
 
 ### Get importer.py
 
-Download the importer.py script
-
-{"gitdown": "gist", "id": "be08dd9864438a43bf25d8442d6c8437"}
-
-<script src="https://gist.github.com/Dreamzilla/be08dd9864438a43bf25d8442d6c8437.js"></script>
+Download the importer.py script, there is a gist available [here](https://gist.github.com/Dreamzilla/be08dd9864438a43bf25d8442d6c8437).
 
 > ***!*** Make sure importer.py and the source file are in the same directory!!
 
