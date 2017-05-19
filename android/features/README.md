@@ -8,7 +8,7 @@
 - [Terminal tabs](terminal_tabs.md)
 - [Extended keyboard](extended_keyboard.md)
 
-## security
+## Security
 
 ## All features
 

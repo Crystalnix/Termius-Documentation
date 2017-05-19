@@ -7,9 +7,9 @@ The extended keyboard is devided in three sections. On the left you will find th
 
 ## Termius specific keys
 - `Display keyboard` ![Display keyboard](../.images/displaykeyboard.png) Shows the standard Android keyboard
-- `More button` ![More button](../.images/more.png) Displays all available keys and the settings button
+- `More button` ![More button](../.images/more.png) Display all available keys and the settings button
 - `Settings` ![Settings](../.images/settings.png) Enter the Extended Keyboard settings
-- `Gesture button` ![Gesture button](../.images/terminaltouch.png) Changes the behavior of the Terminal ([Read more](terminal_touch.md))
+- `Gesture button` ![Gesture button](../.images/terminaltouch.png) Change the behavior of the Terminal ([Read more](terminal_touch.md))
 - `Autocomplete` ![Autocomplete off](../.images/autocomplete.png) Toggle on to predict/suggest input
 - `Paste password` ![Paste password](../.images/pastepassword.png) Use to quickly paste the host password into the Terminal
 - `Snippets` ![Snippets](../.images/snippets.png) Open the Snippets panel
