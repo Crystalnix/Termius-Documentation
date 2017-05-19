@@ -1,12 +1,16 @@
 # Features and functionality
 ###### [[Termius Documentation](../../README.md) > [Android](../README.md)]
 
+## Essentials
+
+## UI/UX
 - [Terminal touch](terminal_touch.md)
 - [Terminal tabs](terminal_tabs.md)
+- [Extended keyboard](extended_keyboard.md)
 
+## security
 
-
-
+## All features
 
 - SSH/Telnet/Mosh
 - SFTP

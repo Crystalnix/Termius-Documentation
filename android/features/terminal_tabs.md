@@ -1,11 +1,11 @@
 # Terminal Tabs
 ###### [[Termius Documentation](../../README.md) > [Android](../README.md) > [Features and functionality](README.md)]
 
-Termius on Android features Terminal Tabs. **Terminal tabs is a Premium feature**, it a useful tool that helps you to navigate between active sessions. Terminal tabs appear on top of the Terminal window by tapping the Terminal once.
+Termius on Android features `Terminal Tabs`. **Terminal tabs is a Premium feature**, it a useful tool that helps you to navigate between active sessions. Terminal tabs appear on top of the Terminal window by tapping the Terminal once.
 
 ![Terminal Tabs](../.images/screenshots/terminaltabs.png)
 
-Terminal tabs features the Active sessions, the Quick Connect button, Session indicator and Session options.
+`Terminal tabs` features the Active sessions, the Quick Connect button, Session indicator and Session options.
 
 ###### *!* Swipe horizontally to hop between sessions
 
@@ -13,7 +13,7 @@ Terminal tabs features the Active sessions, the Quick Connect button, Session in
 
 ![Terminal Tabs](../.images/rocket.png)
 
-Tap the Rocket ship Shaped button to open the Quick Connect panel. Here you'll find a search option to search through existing hosts, the hosts you use frequently, the Local Terminal and DNS Service Discovery.
+Tap the Rocket ship Shaped button to open the `Quick Connect` panel. Here you'll find a search option to search through existing hosts, the hosts you use frequently, the `Local Terminal` and `DNS Service Discovery`.
 
 ## Session options
 
