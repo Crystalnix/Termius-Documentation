@@ -47,11 +47,12 @@
     - [Set access with Port Forwarding](android/quick_start/port_forwardingt.md)
     - [UI tips and tricks](android/quick_start/ui.md)
   - [Features and functionality](android/features/README.md)
-    - [SSH]() *!*
-    - [Telnet]() *!*
+    - [Hosts, SSH, Telnet and Mosh]() *!*
     - [SFTP]() *!*
     - [Port forwarding]() *!*
     - [Snippets]() *!*
+    - [Terminal touch](terminal_touch,md)
+    - [Terminal tabs](terminal_tabs.md)
   - [Known issues and troubleshooting](android/troubleshooting/README.md)
     - [How to access the Root Terminal?](android/troubleshooting/can_I_access_the_root_terminal.md)
     - [The passphrase is not requested upon connection](android/troubleshooting/passphrase.md)
