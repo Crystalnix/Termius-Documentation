@@ -23,12 +23,17 @@ Terminal tabs lets you jump between active sessions quickly.
 
 Active sessions appear at the top of the screen, by swiping horizontally you may switch between them. By tapping the three vertically oriented dots you may alter each individual tap.
 
-Read a more detailed description [here](../features/terminal_tabs.md). *!missing link*
+Read [more](../features/terminal_tabs.md).
 
 ## Extended keyboard
 The extended keyboard adds a number of unique features and keys that are otherwise hard to find to the Android keyboard. The additional keys are grouped in customizable key groups.
 
 The extended keyboard itself is customizable by tapping the `...` dotted icon...
+
+## Terminal touch
+`Terminal touch` changes the way you interact with the terminal, it is activated by tapping the `Gesture toggle` ![Gesture toggle](../.images/terminaltouch.png). When Terminal touch is toggled on, swipe gestures represent different terminal functions. Toggle Terminal touch off to use swipe gestures for browsing and scrolling.
+
+Read [more](../features/terminal_touch.md).
 
 
 
