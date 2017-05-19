@@ -51,7 +51,7 @@
     - [SFTP]() *!*
     - [Port forwarding]() *!*
     - [Snippets]() *!*
-    - [Terminal touch](terminal_touch,md)
+    - [Terminal touch](terminal_touch.md)
     - [Terminal tabs](terminal_tabs.md)
   - [Known issues and troubleshooting](android/troubleshooting/README.md)
     - [How to access the Root Terminal?](android/troubleshooting/can_I_access_the_root_terminal.md)

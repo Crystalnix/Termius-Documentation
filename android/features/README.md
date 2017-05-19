@@ -1,7 +1,7 @@
 # Features and functionality
 ###### [[Termius Documentation](../../README.md) > [Android](../README.md)]
 
-- [Terminal touch](terminal_touch,md)
+- [Terminal touch](terminal_touch.md)
 - [Terminal tabs](terminal_tabs.md)
 
 
