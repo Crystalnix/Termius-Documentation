@@ -3,7 +3,7 @@
 
 ## Termius Premium
 
-Termius is available under two different licensing models. Our free version is available for private use, it is add-free and free to download from different app stores. A subscription-based version, Termius Premium, is available for commercial use and costs $9.99 (US) annually.
+Termius is available under two different licensing models. Our free version is available for private use, it is add-free and free to download from different app stores. A subscription-based version, Termius Premium, is available for commercial use and costs $29.88 (US) annually.
 
 Termius Premium ships with extended functionality such as SFTP and Cross-Platform synchronization. [Click here](#features) for the full list of features.
 
